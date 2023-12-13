@@ -1,5 +1,7 @@
 # Discord Botu
 
+![MasterHead](https://cdn.webrazzi.com/uploads/2020/11/discord-thumb-848.jpeg)
+
 Bu proje bir Discord botu için temel bir şablondur. İlgili komutları içerir ve özel komutlar eklemek için genişletilebilir.
 
 ## Kurulum
